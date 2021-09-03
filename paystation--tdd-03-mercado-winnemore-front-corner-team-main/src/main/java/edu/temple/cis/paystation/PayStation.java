@@ -17,6 +17,9 @@
  * implied. You may study, use, modify, and distribute it for non-commercial
  * purposes. For any commercial use, see http://www.baerbak.com/
  */
+
+
+ // this is an edit for the purpose of testing
 package edu.temple.cis.paystation;
 
 public interface PayStation {
